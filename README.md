@@ -21,7 +21,7 @@
  <br>
 
 - [x] Criar um form:
-- -  Input ckeckbox   
+- -  Input checkbox   
 - - Strong     
 - - Input submit    
 
