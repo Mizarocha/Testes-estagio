@@ -6,24 +6,24 @@
 <h3 align="center"><i>Desenvolver no HTML e no CSS fazer a estilização</i></h3>
 
 - [x] Criar uma tabela:                   
-- Título                      
-- Linhas e Colunas                
--  Descrição             
--  Colocar a cor verde no título           
--  Colocar a cor cinza nas linha1 e linha3        
+- - Título                      
+- - Linhas e Colunas                
+- - Descrição             
+- - Colocar a cor verde no título           
+- - Colocar a cor cinza nas linha1 e linha3        
   <br> 
 
 - [x] Criar um formulário:                   
- - Título                       
- - Input text                      
- - Título 2                         
- - Input radio e as descrições                 
+ - - Título                       
+ - - Input text                      
+ - - Título 2                         
+ - - Input radio e as descrições                 
  <br>
 
 - [x] Criar um form:
-- Input ckeckbox   
-- Strong     
-- Input submit    
+- -  Input ckeckbox   
+- - Strong     
+- - Input submit    
 
 <h3 align="center">Demonstração:</h3>
 
@@ -36,7 +36,9 @@
 
 - HTML   
 - CSS
-- Visual Studio Code
+- JavaScript    
+- Visual Studio Code   
+
 
 <h3 align="center"> Autora: Artemiza Rocha</h3>   
 
